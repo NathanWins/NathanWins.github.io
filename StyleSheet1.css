@@ -1,0 +1,53 @@
+﻿body
+{
+    background-color:crimson;
+
+}
+h1 {
+    text-align:center;
+    font-size:xx-large;
+    font:600;
+    color:mintcream;
+    background-color:mintcream;
+    color:crimson;
+}
+h2{
+    text-align:center;
+    background-color:mintcream;
+    color:crimson;
+}
+h3{
+    color:mintcream;
+}
+nav {
+    float: left;
+    padding: 20px;
+    height: 100hv;
+    background-color: mintcream;
+    border-radius: 10px;
+}
+
+li a {
+    background-color: crimson;
+    color: mintcream;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: none;
+    display: block;
+    border-radius: 10px;
+    margin: 25px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a:hover {
+    background-color: grey;
+}
+
+.card {
+    text-align:center;
+}
